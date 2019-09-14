@@ -1,1 +1,5 @@
-# mercado
+# mercancias
+
+patacas 
+zenouras
+cebolas
