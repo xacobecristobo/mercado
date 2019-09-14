@@ -3,3 +3,5 @@
 patacas 
 zenouras
 cebolas
+calabazin 
+setas
